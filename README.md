@@ -5,7 +5,7 @@ Startup Engineering
 
 Heroku master added
 ===================
-Display: 	Hello World 2! 
+Display: 	Hello World from index.html 
 URL: 		http://peaceful-waters-8410.herokuapp.com/
 
 
